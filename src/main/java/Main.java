@@ -1,4 +1,4 @@
-//fixses #6 close
+fixses #6 close
 public class Main {
     public static void main(String[] args) {
         Burger chefBurger = new Burger();
